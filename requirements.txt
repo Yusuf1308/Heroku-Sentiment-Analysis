@@ -27,8 +27,8 @@ python-dateutil==2.8.1
 PyYAML==5.4.1
 scikit-learn==0.24.2
 scipy==1.6.3
-tensorboard==1.7.0
-tensorflow==1.7.0
-tensorflow-estimator==1.7.0
+tensorboard==2.0.1
+tensorflow==2.0.1
+tensorflow-estimator==2.0.1
 webencodings==0.5.1
 Werkzeug==2.0.1
