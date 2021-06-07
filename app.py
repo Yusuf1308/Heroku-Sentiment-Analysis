@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import re
 import os
+os.environ["CUDA_VISIBLE_DEVICES"]="-1" 
 import tensorflow as tf
 from numpy import array
 from keras.datasets import imdb
